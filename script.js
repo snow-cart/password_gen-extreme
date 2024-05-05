@@ -13,8 +13,8 @@ const fs = require('fs');
 
 let outputPath = "./password.txt";
 
-let length = 10000000000;
-let checkpointFreq = 20;
+let length = 100;
+let checkpointFreq = 10;
     
 //                      //
 //      Config end      //
