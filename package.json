@@ -1,0 +1,11 @@
+{
+    "name": "password-crash",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+      "start": " node --max-old-space-size=16384 ./script.js"
+    },
+    "dependencies": {
+    }
+  }
+  
